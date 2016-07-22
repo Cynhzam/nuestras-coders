@@ -1,0 +1,25 @@
+.division {
+	border: 2px solid black;
+	width: 150px;
+}
+.contenedor{
+	display: inline-block;
+	position: relative;
+	width: 211px;
+	height: 211px;
+	margin: 20px;
+}
+.contenedor span {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	color: white;
+}
+.transparencia {
+	position: absolute;
+	width: 211px;
+	height: 211px;
+	background-color: rgba(0,0,0,0.5);
+	top: 0px;
+	left: 0px;
+}
